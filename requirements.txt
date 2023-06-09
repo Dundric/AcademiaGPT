@@ -1,0 +1,20 @@
+# Natural Language Processing
+langchain==0.0.191
+chromadb==0.3.22
+llama-cpp-python==0.1.59
+pdfminer.six==20221105
+InstructorEmbedding
+sentence-transformers
+faiss-cpu
+huggingface_hub
+transformers
+protobuf==3.20.0
+multiprocess
+# Utilities
+urllib3==1.26.6
+accelerate
+bitsandbytes
+click
+glob
+# Excel File Manipulation
+openpyxl

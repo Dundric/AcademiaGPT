@@ -1,0 +1,398 @@
+Progress in Nuclear Energy 77 (2014) 247e265
+Contents lists available at ScienceDirect
+Progress in Nuclear Energy
+journal homepage: www.elsevier.com/locate/pnucene
+
+A summary of sodium-cooled fast reactor development
+Kazumi Aoto a, *, Philippe Dufour b, Yang Hongyi c, Jean Paul Glatz d, Yeong-il Kim e, Yury Ashurko f, Robert Hill g, Nariaki Uto h
+a Japan Atomic Energy Agency, 2-2-2, Uchisaiwai, Chiyoda-ku, Tokyo 100-8577, Japan b French Alternative Energies and Atomic Energy Commission (CEA), Cadarache, France c China Institute of Atomic Energy (CIAE), Beijing, China d Joint Research Center, European Commission (EC), Karlsruhe, Germany e Korea Atomic Energy Research Institute (KAERI), Daejeon, Republic of Korea f Institute for Physics and Power Engineering (IPPE), Obninsk, Russia g Argonne National Laboratory (ANL), Illinoi, USA h Japan Atomic Energy Agency, Oarai, Ibaraki, Japan
+
+article info
+Article history: Received 4 December 2013 Received in revised form 2 May 2014 Accepted 7 May 2014 Available online 23 June 2014
+Keywords: Sodium-Cooled Fast Reactor Closed fuel cycle Minor actinide management Improved safety performance Long term development experience Generation IV International Forum
+
+abstract
+Much of the basic technology for the Sodium-cooled fast Reactor (SFR) has been established through long term development experience with former fast reactor programs, and is being conﬁrmed by the Phenix end-of-life tests in France, the restart of Monju in Japan, the lifetime extension of BN-600 in Russia, and the startup of the China Experimental Fast Reactor in China. Planned startup in 2014 for new SFRs: BN800 in Russia and PFBR in India, will further enhance the conﬁrmation of the SFR basic technology. Nowadays, the SFR development has advanced to aiming at establishment of the Generation-IV system which is dedicated to sustainable energy generation and actinide management, and several advanced SFR concepts are under development such as PRISM, JSFR, ASTRID, PGSFR, BN-1200, and CFR-600. Generation-IV International Forum is an international collaboration framework where various R&D activities are progressing on design of system and component, safety and operation, advanced fuel, and actinide cycle for the Generation-IV SFR development, and will play a beneﬁcial role of promoting them thorough providing an opportunity to share the past experience and the latest data of design and R&D among countries developing SFR.
+© 2014 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+The Sodium-Cooled Fast Reactor (SFR) system features a fastspectrum reactor and closed fuel recycle system. The primary mission for the SFR is improved resource utilization, management of high-level wastes and, in particular, management of plutonium and other actinides. With innovations to reduce capital cost, the SFR mission can extend to electricity production.
+The SFR uses liquid sodium as the reactor coolant, allowing high power density with low coolant volume fraction. While the oxygenfree environment prevents corrosion, the chemical reactivity of sodium with air and water requires a sealed coolant system.
+So far, historical experience of design, construction, test, operation, inspection and repair of past or existing demonstration and/ or prototype SFRs such as PFR (UKAEA), Phenix (France), BN-350
+* Corresponding author. Tel.: þ81 3 3592 2366. E-mail address: aoto.kazumi@jaea.go.jp (K. Aoto).
+http://dx.doi.org/10.1016/j.pnucene.2014.05.008 0149-1970/© 2014 Elsevier Ltd. All rights reserved.
+
+(Kazakhstan), Super Phenix (France), BN-600 (Russia), Monju (Japan) has established technology bases of the SFR, though several projects of prototype SFRs development were canceled by government decisions at the times. In BN-350, in addition to electricity generation, heat production for seawater desalination was successfully industrialized. For the basis of such an establishment, pioneering experience was acquired by past experimental SFRs including Fermi (USA), EBR-II (USA), FFTF (USA), DFR (UKAEA), Rapsodie (France), BR-5/10 (Russia), BOR-60 (Russia), Joyo (Japan), FBTR (India).
+This knowledge base is an essential asset for all of the countries developing the SFR. A variety of development projects for the Generation-IV SFR have been progressing in several countries under the auspices of Generation IV International Forum (GIF). GIF is expected to play a beneﬁcial role of promoting efﬁcient and effective activities for the Generation-IV SFR development thorough providing an opportunity to share the past experience and the latest data of design and R&D among countries developing SFR.
+
+248
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+2. Historical experience with demonstration and prototype reactors
+
+Historical experience with previously operated and canceled SFR projects is summarized below.
+
+2.1. Previously operated SFRs
+
+2.1.1. PFR (International Atomic Energy Agency, 2006; International Atomic Energy Agency, 2012; Cacuci, 2010)
+The Prototype Fast Reactor (PFR) was built and operated at the United Kingdom Atomic Energy Authority's (UKAEA's) site at Dounreay in Scotland to validate and provide operational experience of a large pool-type fast reactor and as a test bed for the fuel, components, materials and instrumentation needed for an eventual commercial-sized station. PFR was designed to produce 250 MWe from 600 MWth core power and its design incorporated lessons learnt from the operation of the former experimental reactor, Dounreay Fast Reactor (DFR) situated at the same site.
+PFR achieved its criticality in March 1974. The operating history of PFR can be conveniently divided into two phases. For the ﬁrst ten years (1974e1984), electrical output was limited, mainly because of a series of leaks in the SG units. A leak detected in a superheater in 1974 was found to have occurred in a tube-to-tube plate weld and was the ﬁrst of 43 similar events; 2 in the superheaters, 1 in a reheater and 41 in the evaporators e which were to have a major inﬂuence on operations in the next seven years, with the highest incidents (11 leaks in the evaporators) om 1981. Due to these incidents, the highest load factor was 12% in 1978 when the net electricity generation showed the maximum achievement of 9,678 MWd. After 1984, with the SG weld problems dealt with, plant performance improved and in the ﬁnal year of operation the load factor was about 57%. In the second decade of operation (1984e1994), there was one major outage. In this period, until 1991, the reactor and primary circuit equipment were responsible for only a very small fraction of unplanned outage time. In mid-1991, a leakage of oil from a bearing of one of the primary pumps into the primary sodium caused suspension of reactor operation for 18 months. Operations then continued, and the total electricity generation from April 1993 to March 1994 achieved 51,546 MWd with a load factor of 56.5%, which corresponded to the best result in any twelve-month period. Then, PFR was shut down in 1994 as the British government withdrew major ﬁnancial support for nuclear energy development. Until the shutdown, a successful irradiation of approximately 98,000 fuel pins was completed and over 40,000 pins out of them exceeded the original 7.5% target burnup.
+The overall survey and the cross-section of the primary circuit of PFR are shown in Fig. 1 and Fig. 2, respectively.
+2.1.2. Phenix (International Atomic Energy Agency, 2012; Cacuci, 2010)
+The French prototype fast reactor, Phenix (a pool-type reactor, 250 MWe in electricity) was built to demonstrate the facility's overall capacity of operating over time while meeting expected characteristics. Being a demonstration reactor of what was supposed to become a new reactor technology e the SFR e operation data were to be collected to serve teams working in parallel to the project and the construction of the next-to-come reactor, Superphenix and later the European Fast Reactor (EFR) project.
+Phenix went into commercial operation in 1974. From the beginning, the reactor was also used as an irradiation tool: a considerable amount of data was gained on fuel and sub-assembly structural materials, leading to a signiﬁcant increase of fuel burnup. The closing of the fuel cycle was also achieved for the ﬁrst time in 1980.
+
+Fig. 1. PFR overall survey.
+The 35 years of Phenix operations have brought a signiﬁcant contribution to the development of fast reactors. It has fulﬁlled its original objective to demonstrate the viability of SFRs and has been throughout its lifetime an outstanding tool for fuel development and for conducting a wide range of irradiation experiments, in particular for minor actinide transmutation. The availability factor above 80%, which was achieved from April 1978 to March 1980 by the continuous operation at full-power without any noteworthy incidents occurring, is also worth describing as a great feature of Phenix. During its 35 years of operation, Phenix encountered several events including sodium leaks (most of the leaks were located on welds of secondary loops and auxiliary circuits, but there were no consequences on the plant safety.), wateresodium reactions on its modular type of SG different from recent integral type (the origins of the incidents were the initial crack due to a thermal fatigue phenomenon or a manufacturing defect that evolved after cleaning of the module, and many improvements and modiﬁcations were completed to make the hydrogen detection systems faster and more reliable. Given the progress made vis-a-vis the risk of leakage in the SG and economic considerations, the modular design of SG was abandoned for Super Phenix in favor of high power SGs.), incidents on IHX (sodium leaks from the IHXs took place at the secondary sodium outlet header, and all IHXs were repaired and design modiﬁcations were made.). However, these events which were managed without difﬁculty vis-a-vis the safety of the reactor are rich in terms of feedback for operating this type of reactors.
+After 35 years of operation, a campaign of end of life tests was performed at Phenix before the ﬁnal shutdown. The ﬁrst test was carried out in May 2008, and most were performed after the end of the last electricity production cycle between May 2009 and January 2010. These tests aim to broaden the experimental base for validating neutronics, thermal-hydraulics and fuel computer codes. Ten different tests of four types (thermal-hydraulics, core physics, fuel, negative reactivity transient investigations) were performed.
+By the ﬁnal shutdown, Phenix run ﬁfty one cycles and produced more than 20 billion kWh.
+The overall survey and the plant circuit of Phenix are shown in Fig. 3 and Fig. 4, respectively.
+2.1.3. BN-350 (International Atomic Energy Agency, 2006; International Atomic Energy Agency, 2012; Vasilyev et. al, 2013a)
+The BN-350 reactor plant, with a loop-type SFR and six primary/ secondary loops, is a constituent of Mangyshlak energy integrated
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+249
+
+Fig. 2. PFR cross-section of the primary circuit.
+
+works 10 km away from Aktau (former Shevchenko), Mangistauskaya Region of Kazakhstan on the shore of the Caspian Sea (Mangyshlak peninsula). It was designed and constructed as a twopurpose pilot-industrial power plant for electricity generation and heat production for seawater desalination.
+BN-350 achieved its ﬁrst criticality on November 29, 1972, and power start-up was carried out on July 16, 1973. The extended start-
+Fig. 3. Phenix overall survey.
+
+up was due to loss-of-integrity events in four evaporators (detected by the appearance of hydrogen in the gas plenum) when the SGs were ﬁlled with water. Therefore, the power start-up was carried out with three loops and the achieved thermal power was approx. 200 MWt.
+The initial period of reactor plant operation was characterized by unreliable operation of the SGs. Numerous loss-of-integrity events occurred in the tubes of the evaporators. Metallographic examination of a number of tubes showed the presence of microcracks in the tube-to-bottom weld joints. Mechanical deformation of the tube bottoms during cold stamping was acknowledged as the most probable cause of the microcracks. Growth of the microcracks could occur under the effect of internal stresses arising during welding the bottoms to the tubes and under cyclic thermal loads during evaporator operation. After repair of the evaporators when outer tubes of 32 Â 2 mm (OD Â wall thickness) were replaced by 33 Â 3 mm tubes with machined bottoms, reactor plant operation was continued with ﬁve loops at thermal power of 650 MWt. In consideration of the power limitations imposed by the above SGs characteristics, the BN-350 plant was operated so as not to exceed 750 MWt in thermal output. The reactor was designed for thermal output of 1,000 MWt.
+The BN-350 core was loaded with originally two enrichment values of UO2 fuel (17% and 26%) to ﬂatten the power distribution in
+
+250
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 4. Phenix plant circuit.
+
+radial direction. During the initial period of the reactor operation until 1979, fuel failures (loss-of-clad integrity events) occurred, causing a signiﬁcant increase in ﬁssion fragment activity in the primary circuit and consequently resulting in deterioration of radiation conditions in the reactor plant rooms. Therefore, the core design was modiﬁed with thicker fuel rods. This advanced core provided for increased fuel burnup and more reliable operation of the fuel rods, due to improvements including increase of gas plenum height, replacement of fuel assembly duct material with more stabilized one, reduction of coolant pressure in the middle plane inside the duct, incorporation of a medium fuel enrichment (21%) zone between the existing two enrichment zones for decrease of fuel linear heat rate.
+At a thermal output of 750 MWt, BN-350 supplied about 130 MWe of electricity plus 100,000t/day of desalinated fresh water to the city of Aktau. Furthermore, BN-350 construction and operation experience became a reliable scientiﬁc and engineering basis for creation of the next fast nuclear power reactor, BN-600.
+The overall survey and the schematic ﬂow diagram of sodium circuits of BN-350are shown in Fig. 5 and Fig. 6, respectively.
+
+2.1.4. Super Phenix (International Atomic Energy Agency, 2012) Super Phenix is located at the Creys-Malville site in France. Its
+design, derived from Phenix, is of the pool (or integrated) type. Following the end of construction in 1984, the plant underwent
+three major modiﬁcations:
+- In 1984, with the building of the fuel storage pool building, - In 1988, with the replacing of the sodium ﬁlled fuel storage
+drum by an argon-ﬁlled fuel transfer station, and - In 1993, with the modiﬁcations to improve means of prevention
+and handling of secondary sodium spray ﬁres in the reactor building and the SG buildings.
+Since the ﬁrst connection to the grid, the accumulated gross electrical output amounted to 8.3 billion kWh, and the energy extracted from the fuel represents 22.9 billion kWh. From the ﬁrst connection to the grid until the last day of production, not accounting for unplanned outages speciﬁcally due to incidents and administrative procedures, the reactor was in normal operation, including planned outages, during about 53 months.
+Excluding the power build-up phase in 1986, which was exceptionally long due to the performance of prototype plant tests, the average capacity factor 1987e1996 was 41.5%. However, it is worth noting that in the last operating period (August 1995eDecember 1996), the gross electrical production amounts to 3.74 billion kWh, giving a capacity factor of about 57%.
+Super Phenix was decided to be permanently closed in 1998 by French government following a change in every policy, including the abandonment of the development of fast neutron reactors. Phenix only was kept operating as an experimental reactor.
+The overall survey and the cross-section of the primary circuit of Super Phenix are shown in Fig. 7 and Fig. 8, respectively.
+
+Fig. 5. BN-350 overall survey.
+
+2.2. SFR projects terminated prior to operation
+2.2.1. CRBR (International Atomic Energy Agency, 2006; Cacuci, 2010)
+The Clinch River Breeder Reactor (CRBR) was a loop-type reactor fueled with PuO2eUO2 to produce electric output of 380 MWe. The reactor fuel forms and key components were based on testing and
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+251
+
+Fig. 6. BN-350 schematic ﬂow diagram of sodium circuits.
+
+demonstration in the United States EBR-II and FFTF sodium-cooled fast test reactors.
+The CRBR Project (CRBRP) was announced in January 1972, and deﬁnitive arrangements were made to combine resources of the US Atomic Energy Commission and some 750 private, public, cooperative, municipal electric utility systems throughout the country. In 1975, the design concept was completed and a ﬁrst version of an environmental impact statement was submitted.
+In 1977, however, the Carter Administration decided an indeﬁnite postponement of CRBR construction and of nuclear fuel reprocessing in the USA. On October 26, 1983, the US Congress effectively terminated the project by refusing to make any further appropriations for the project in the ﬁscal year 1984. Prior to that, the CRBR licensing progressed to a point of issuance of the United States Nuclear Regulatory Commission (NRC) CRBR Safety Evaluation Report (United States Nuclear Regulatory Commission, 1983) and a public hearing on the construction permit. The Atomic Safety and Licensing Board eventually excluded Hypothetical Core Disruptive Accidents (HCDAs) from the CRBR licensing process,
+Fig. 7. Super Phenix overall survey.
+
+stating that “probability of core melt and disruptive accidents can and must be reduced to a sufﬁciently low level to justify their exclusion from the design basis accident spectrum” e consistent with the Generation-IV safety goals.
+The reactor assembly of CRBR is shown in Fig. 9.
+2.2.2. SNR-300 (International Atomic Energy Agency, 2006; International Atomic Energy Agency, 2012; Cacuci, 2010)
+SNR-300 was planned as an international project from the very beginning in 1966.
+The ﬁnal arrangement consisted of a three-country cooperation comprising Germany (70%), Belgium (15%), and the Netherlands (15%), involving the manufacturers, the utilities, and the R&D organizations.
+The ﬁrst nuclear license of SNR-300, which was necessary for the beginning of construction, was granted in December 1972.
+Construction began in April 1973, but was disturbed by various issues which would cause delay of the SNR-300 project. Initially, it faced technical problems related to the conventional construction materials and the material testing program for the reactor vessel. In 1976 to 1977, a large anti-nuclear demonstration with 35,000 participants was held in Ralkar. Court cases against the construction leave further delayed the project. Nuclear energy policy of especially Carter administration in the USA, aiming at a delayed introduction of fast reactor technologies, had some impact on the project. Licensing procedures made the implementation of a prototype project like SNR-300 extremely complicated.
+Through overcoming these difﬁculties, the construction was ﬁnished in mid 1985. Non-nuclear commissioning began also in 1985. In August of 1985 all fuel sub-assemblies were fabricated. However in 1986 a project to build SNR-2, a 1,500 MWe reactor, was ofﬁcially abandoned. In March 1991, the German Government announced about unconditional abandonment of the project after a thorough evaluation of the overall situation. This has led to suspension of development of fast reactor technology in Germany. The SNR-300 plant was maintained and staffed until the decision to close it, and has since been decommissioned.
+The overall survey and the cross-section of the schematic ﬂow scheme of SNR-300 are shown in Fig. 10 and Fig. 11, respectively.
+
+252
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 8. Super Phenix cross-section of the primary circuit.
+
+3. Overview of currently operating SFRs
+3.1. BN-600 (International Atomic Energy Agency, 2012; Vasilyev et. al, 2013a)
+The BN-600 reactor, a pool-type SFR, was constructed at the Beloyarsk NPP (BNPP) site in Russia, and it is the 3rd power unit of the BNPP. It was connected to the grid on April 8, 1980. The designed electric power level of the reactor plant, 600 MWe, was reached in December 1981, and the plant is now in smooth operation.
+The thermal output of the BN-600 reactor core is 1470 MWt. The core is composed of multiple zones of enriched UO2 fuel assemblies; two (21%, 33%) in the ﬁrst core and three (17%, 21%, 26%) in the upgraded core. The burnup that has been currently achieved is approx. 70,000 MWd/t (more than 11% h.a. by the maximum value).
+In the BN-600, integral layout of the primary circuit is used with three heat removal loops. Each of the heat removal loops operates with its own turbine and generator. Heat transfer from the primary circuit to the secondary one is provided by two intermediate heat exchangers in each loop. Heat from the secondary circuit to the steam/water medium of the tertiary circuit is transferred in sectional/modular SG having 8 sections in each loop. Each SG section can be isolated from the secondary and tertiary circuit by cutoff valves. The Sectional/modular SGs have demonstrated high performance for the whole period of power unit operation. Although 12 leaks of steam and water into sodium have occurred during that period, they were all suppressed by regular means, and thus they have not resulted in emergencies. Since the last SG leak
+
+took place in January 1991, the SGs have operated without any leaks for more than 20 years, which indicates a successful SG design and high quality of their manufacturing.
+The BN-600 reactor plant construction has preserved high serviceability, which made it possible to validate the possibility of extending the power unit service life beyond 30years. In April 2010, Gostekhnadzor of Russia issued a license for extending the reactor service life for 10 years on condition that a number of power unit equipment would be replaced and that certain measures would be taken to enhance reactor safety such as development of the additional emergency heat removal system.
+According to the results of the additional safety analysis (stress tests) for the BN-600 reactor after the accident at Fukushima NPP, sufﬁciently high reactor resistance to internal and external events was veriﬁed, including preservation of the safety functions in more severe seismic condition. In addition, it is planned to equip the power unit with an autonomous portable diesel generator station for emergency power supply to critical mechanisms, as well as with a station for emergency power supply to instrumentation switchboards and reserved control panel.
+Experience of operation of BN-600 for more than 30 years has demonstrated safety and operating reliability of this plant. Moreover, the achievements, such as long-duration tests of large-size sodium components, mastering sodium technology, development and optimization of operating modes, mastering technology of replacement and repair of sodium components, have been also reached during this period.
+The overall survey and the elevation through the primary circuit of BN-600 are shown in Fig. 12 and Fig. 13, respectively.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+253
+
+Fig. 9. CRBR reactor assembly.
+
+3.2. Monju (Kondo et. al, 2013; Jaea.go; Jolisfukyu, 2007)
+Monju is a Japan's prototype loop-type SFR capable of producing electricity of 280 MWe.
+The safety review for permission of construction of Monju was ﬁnished in 1983, followed by the plant construction and component manufacturing which then were completed in 1991. The initial criticality was attained in 1994 and the series of system start-up tests (SSTs) was initiated. In December 1995, when the SST was conducted at the 40% power level, a sodium leak accident took place at the secondary heat transport system, right outside the reactor containment vessel. The leaked sodium amounted 640 kg at most. The Japan Atomic Energy Agency (JAEA) has thoroughly investigated the cause of the sodium leak accident, modiﬁed the plant to reinforce the safety measures against sodium chemical reactions and obtained an approval from the regulatory authority and the local government. In May 2010, the ﬁrst step of SSTs, zero-
+
+power core conﬁrmation test, was initiated after the long reactor shutdown period for more than 14 years. The major achievement was accurate prediction of reactor physics parameters with a core having complex fuel composition that includes americium-rich fuel.
+In August 2010 Monju operations were again interrupted by a second event, in which the In-Vessel Transfer Machine (IVTM) dropped into the reactor vessel. Repairs have been made to make the plant ready for the next power increase tests. However, Monju has been put into a stand-by mode again since the FukushimaDaiichi accident on March 11, 2011. Similarly to other light water reactors (LWRs) in Japan, safety improvement efforts have been implemented in Monju as well to prevent and mitigate the severe accident progression.
+The energy and nuclear policy debates during 2012 have changed the environment for nuclear research and development (R&D) activities at JAEA including the future of Monju.
+
+254
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 10. SNR-300 overall survey.
+The overall survey and the overview of Monju are shown in Fig. 14 and Fig. 15, respectively.
+4. Various applications
+In the SFR, the core outlet temperature is typically more than 500 C which makes it possible to achieve higher thermal efﬁciency than that of the LWR. This indicates that the thermal output produced by the nuclear reaction in the SFR core is available for both electricity generation and other applications such as seawater desalination, heat supply to the cold district, hydrogen generation, etc.
+Here, the past accomplishment and the ongoing studies concerned with these applications are brieﬂy described.
+4.1. BN-350 (International Atomic Energy Agency, 2012)
+As brieﬂy mentioned in the previous subsection 2.1.3, the BN350 plant was designed so as to not only generate electricity but also produce heat for seawater desalination for Aktau and the
+
+Fig. 12. BN-600 overall survey.
+adjoining industrial region, which is completely devoid of natural fresh water resources.
+Due to utilization of the reactor energy for fresh water production, the steam-water system of BN-350 has some speciﬁc features. Steam from the SG is supplied to turbines of two types: a condensing turbine (K-l00-45) and a back-pressure turbine (K-5045). Exhaust steam ﬂows from the K-50-45 turbine and from intermediate bleeds of the K-l00-45 turbine are supplied to the water desalination facilities.
+At a heat output of 750 MW, the reactor produced approx. 100,000t per day of desalinated water, together with electric output of approx. 135 MWe. This accomplishment contributed to solving the paramount economic and social problems of provision of fresh water and electric energy for the prospective industrial regions of Kazakhstan.
+The nuclear desalting complex and the schematic diagram of the nuclear desalting complex of BN-350 are shown in Fig. 16 and Fig. 17, respectively.
+
+Fig. 11. Schematic ﬂow scheme of the SNR-300.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+255
+
+Fig. 13. Elevation through BN-600 primary circuit.
+
+Fig. 14. Monju overall survey.
+
+4.2. Other investigated SFRs (Tsuboi et. al, 2012; International Atomic Energy Agency, 2007)
+A design study of SFR, the Super-Safe, Small and Simple (4S) sodium-cooled reactor, which could serve providing an independent power source for desalination in remote areas without a developed grid or power source, has been developed jointly by Toshiba Corporation and Central Research Institute of Electric Power Industry (CRIEPI). Innovative design features of the 4S reactor include non-refueling, passive safety, low maintenance requirements, and inherent security, which are expected to reduce the burden of fuel transportation to remote areas and to reduce the demands for operator action.
+Application of SFRs to producing hydrogen has been also studied.
+A concept for the nuclear production of hydrogen that combines SFRs with the membrane reformer technology has been studied jointly by Mitsubishi Heavy Industries Ltd. (MHI), Advanced Reactor Technology Co. (ARTEC), Tokyo Gas Company (TGC), and Nuclear Systems Association (NSA). TGC, in fact, demonstrated in 2004e2005 the operation of a methane-combusting membrane
+
+256
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 15. Overview of Monju.
+
+reformer at a hydrogen fueling station for fuel cell vehicles in downtown Tokyo. The system performance, efﬁciency, and longterm reliability were conﬁrmed by producing more than 99.99% hydrogen at 3.6 kg/h for more than 3000 h with a hydrogen production efﬁciency of about 68%.
+Another example is a thermo-electrochemical hydrogen production system which has been studied by JAEA to produce hydrogen from water using the heat from an SFR. The system is based on a sulfuric acid (H2SO4) synthesis and decomposition process that was developed earlier as the “Westinghouse process.” The sulfur trioxide (SO3) decomposition process is facilitated by electrolysis with an ionic oxygen conductive solid electrolyte to reduce the operation temperature by 200 Ce300 C compared with the Westinghouse process. The theoretical thermal efﬁciency of the system based on chemical reactions in this system was evaluated within the range of 35%e55%, depending on the H2SO4 concentration and heat recovery. 5. Structure of GIF SFR R&D and beneﬁt from collaboration within GIF (Hahn et. al, 2012)
+GIF deﬁned four goal areas to advance nuclear energy into its next, “fourth” generation:
+Fig. 16. BN-350 nuclear desalting complex.
+
+ Sustainability aiming to generate energy sustainability and minimize nuclear waste as well as reducing the long term stewardship burden,
+ Safety and reliability to have a very low likelihood as well as degree of reactor core damage and eliminate the need for offsite emergency response,
+ Economics to have a life cycle cost advantage over other energy sources, and
+ Proliferation resistance and physical protection.
+GIF also considers three base line options of reactor layout in its System Research Plan:
+ A large size (600e2000 MWe) loop-type reactor with mixed uraniumeplutonium oxide fuel and potentially minor actinides, supported by a fuel cycle based upon advanced aqueous processing at a central location serving a number of reactors,
+ An intermediate-to-large size (300e2000 MWe) pool-type reactor with oxide or metal fuel, and
+ A small size (50e150 MWe) modular-type reactor with uraniumeplutonium e minoractinide e zirconium metal alloy fuel, supported by a fuel cycle based on pyrometallurgical processing in facilities integrated with the reactor.
+In accordance with the four goal areas, collaborations for the GIF SFR system encompass R&D in the areas of advanced fuels, safety approach, in-service inspection, tests in SFRs such as Phenix and Monju, components, advanced energy conversion systems, and materials, codes and standards. These collaborative activities have been arranged by the following SFR System Arrangement (SA) signatories at the present time into ﬁve projects:
+ The French Alternative Energies and Atomic Energy Commission.
+ The Department of Energy of the United States.  The European Atomic Energy Community.  The Japan Atomic Energy Agency of Japan.  The Ministry of Education, Science and Technology of the Re-
+public of Korea.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+257
+
+Fig. 17. BN-350 schematic diagram of the nuclear desalting complex.
+
+ The China National Nuclear Corporation of the People's Republic of China.
+ The State Atomic Energy Corporation “ROSATOM” of the Russian Federation.
+In this chapter, the scope and objectives of the R&D to be carried out in these ﬁve projects, together with beneﬁt from collaboration within GIF, are brieﬂy described.
+5.1. System integration and assessment (SIA) project
+The mission of the SIA project is to carry out the integration and assessment functions for the GIF SFR. This role will help deﬁne and reﬁne requirements for the overall SFR concept R&D, review and integrate results from the R&D projects to assure consistency, and periodically assess the system options and design tracks for conformance to Generation-IV technology goals and other SFRspeciﬁc requirements.
+It is beneﬁcial to do these comprehensive activities in the framework of GIF in terms of integrating the diverse activities of the technical R&D projects to identify possible overlap or synergy opportunities.
+So far, to assist the integration of R&D activities, the SIA project has identiﬁed several system options that deﬁne general classes of SFR design concepts: loop conﬁguration, pool conﬁguration, small modular reactor. Furthermore, within this structure several design tracks have been identiﬁed with pre-conceptual design contribution by SFR Members: JSFR (Japan), KALIMER (Korea), ESFR (Euratom), and SMFR (United States).
+5.2. Safety and operation (SO) project
+The SO project involves safety-related R&D activities on phenomenological model development and experimental programs, conceptual studies in support of the design of safety provisions, preliminary assessment of safety systems, framework and methods for analysis of safety architecture. This project also involves R&D activities in operational areas including reactors safety tests and analysis of reactor operations, feedback from
+
+decommissioning, in-service inspection technique development, under-sodium viewing and sodium chemistry.
+Safety Design Criteria (SDC),which are aimed at an international common standard to achieve enhanced safety for Generation-IV systems in consideration of measures on prevention and mitigation of severe accidents as well as lessons learned from FukushimaDaiichi nuclear accident, were approved by the GIF Policy Group in May 2013. Common understanding of safety analysis models, test data to be used to develop and validate safety analysis codes, safety system concepts design, etc. among countries promoting SFR development is a crucial issue. Collaboration for this project within GIF brings a beneﬁt to global SFR development.
+Experience of operations and tests of real SFRs, such as the Phenix end-of-life tests in France, the restart of Monju in Japan, the lifetime extension of BN-600, and the startup of the China Experimental Fast Reactor (CEFR), is invaluable to future SFR design. Considering that the number of SFRs available for obtaining this experience is still limited, such a rare experience should be shared worldwide, and activities in GIF are beneﬁcial to meeting the needs.
+5.3. Advanced fuel (AF) project
+The AF project aims at developing high burn-up minor actinide (MA) bearing fuels as well as claddings and wrappers capable of withstanding high neutron doses and temperatures. It includes: research on remote fuel fabrication techniques for fuels that contain MAs and possibly traces of ﬁssion products as well as performances under irradiation of fuels, claddings and wrappers. Candidates under consideration are: oxide, metal, nitride and carbide for fuels for homogeneous MA recycling, alternate fast reactor fuel forms and targets for heterogeneous MA recycling, and ferritic/ martensitic and ODS steels for core materials.
+Core fuel and material development needs R&D activities such as irradiation data acquisition by loading test fuel in real reactors to demonstrate the fuel and material integrity for the duration of fuel loading. In general, these activities including license process for utilizing nuclear material in real reactors are time-consuming. Again considering that there are still a limited number of available SFRs even when future operational reactors are considered,
+
+258
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+collaborative R&D and sharing of irradiation data within GIF is beneﬁcial to acquisition of irradiation data.
+5.4. Component design and balance-of-plant (CDBOP) project
+The CDBOP has the objective of enhancing SFR system performance reducing the capital cost per unit electrical power and the cost of electricity generation. Primary R&D activities include advanced components and technologies to enhance the economic competitiveness of the plant, development of advanced in-service inspection instrumentation and repair methods using different approaches and technologies, R&D on advanced energy conversion systems such as the supercritical CO2 Brayton cycle to improve plant economics and eliminate sodium-water reactions, and innovation in advanced, high reliability Rankine cycle SG designs and related instrumentation to enhance the robustness against sodiumwater reaction as well as efﬁciency. In addition, the importance of the experience and lessons learned from the operation and upgrading of SFRs is recognized and summarized.
+Various components design, in-service inspection and repair technologies and related analysis codes can be common R&D issues for SFR development, even considering that difference in reactor type exists (loop, pool). GIF-led R&D framework is beneﬁcial to making it more efﬁcient to promote these R&D activities.
+
+structured, stable conﬁguration even for severe transient conditions, as demonstrated in the EBR-II passive safety tests. The passive Reactor Vessel Auxiliary Cooling System (RVACS) provides decay heat removal without electricity or operated intervention. Heat is transferred from the reactor vessel to guard vessel by thermal radiation and then to surrounding atmospheric air by natural convection. Redundant decay heat removal is provided by the Auxiliary Cooling Systems (ACS) which consists of natural circulation of air past the shell side of the steam generator.
+An early version of the PRISM design was reviewed by the U.S. Nuclear Regulatory Commission in 1994 as part of a pre-application licensing review. (United States Nuclear Regulatory Commission, 1994) A variety of design reﬁnements (e.g. power upgrades, adaptation to speciﬁc missions) have been developed since that time. Recent interest has focused on General Electric proposals for plutonium disposition applications, (United Kingdom Nuclear Decommissioning Authority, 2014) effectively utilizing the plutonium bearing fuel inventory.
+The PRISM vessel cutout view is shown in Fig. 18.
+
+5.5. Global actinide cycle international demonstration (GACID) project
+
+The GACID project aims at conducting collaborative R&D activities with a view to demonstrate, on a signiﬁcant scale, that fast neutron reactors can indeed manage the actinide inventory to satisfy the Generation-IV criteria of safety, economy, sustainability and proliferation resistance and physical protection. The project consists of MA bearing test fuel fabrication, material properties measurements, irradiation behaviour modelling, Joyo irradiations, licensing and pin scale irradiations in Monju, and post irradiation examination, as well as transportation of MA raw materials and MA bearing test fuels. The project is delayed pending restart of the two reactors.
+
+6. Status of new national projects
+
+6.1. PRISM (International Atomic Energy Agency, 2006)
+
+The PRISM design is a moderate sized, pool conﬁguration SFR with power output of 311 MWe. The concept was designed for the largest primary system component (reactor vessel) to be barge shippable. Consistent with a modular approach, factory fabrication of system components and on-site sharing of infrastructure by reactor modules is emphasized. The reference power plant concept includes co-located facilities for spent fuel processing and fuel fabrication.
+The reactor fuel form is a ternary metal alloy comprised of uranium, plutonium, and zirconium, as demonstrated in the EBR-II and FFTF test reactors. The fuel composition and core layout can be tailored to speciﬁc missions ranging from plutonium disposition to the maximization of fuel efﬁciency.
+The primary heat transport system is a pool conﬁguration with electromagnetic pumps and intermediate heat exchangers contained entirely within the reactor vessel. Heat from the intermediate transport system is transferred to a steam generator where superheated steam is produced.
+The concept emphasizes passive safety features. Diverse and independent shutdown systems are applied in addition to control rod scram. Favorable reactivity feedbacks maintain the reactor in a
+
+Fig. 18. Vessel cutout view of the PRISM Reactor Concept.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+259
+
+6.2. BN-800 (International Atomic Energy Agency, 2012; Vasilyev et. al, 2013a)
+The BN-800 reactor was designed based on the BN-600 reactor to create a small series of fast reactors in order to ensure transition to the closed fuel cycle.
+Construction of the BN-800 reactors was commenced in 1984 at two sites simultaneously e at Beloyarskaya NPP and at newly developed South-Urals NPP. However, the work was halted due to the Chernobyl accident; and only as recently as in 2006, the active construction of the BN-800 was recommenced at Beloyarskaya NPP (as part of Unit 4) according to the design that had been mainly updated in the area of safety enhancement.
+Experience gained during BN-600 reactor operation facilitated improved technical decisions for the BN-800 reactor design and to enhance its safety. While the sodium and steam parameters were preserved at the level of those in the BN-600 reactor plant, the power outputs of BN-800 was increased up to 2100 MWt in thermal and 880 MWe in electricity compared to those of the BN-600 design. The following items were also applied to the BN-800 design as important changes or modiﬁcations from the BN-600 design:
+- One turbine for power unit, - Interim steam superheating by steam rather than by sodium, - a special decay heat removal system dissipating heat outside
+through heat exchangers “sodium-air” connected to the secondary circuit, - Core catcher for collecting core debris in case of its melting, - A special sodium cavity over core to reduce sodium void reactivity effect, and - An additional passive shutdown system with hydraulically suspended rods.
+Construction of the BN-800 reactor at Beloyarskaya NPP is entering its ﬁnal phase. The major part of power unit equipment has been delivered to the construction site. At the present time, after the hydraulic testing has been completed on the reactor vessel, activities are being completed to install reactor internals, whereupon installation work will be commenced on reactor equipment. Work is also in progress to prepare the turbine and generator for installation. The reactor startup is planned for 2014 (Fig. 19).
+6.3. PFBR (International Atomic Energy Agency, 2012; Cacuci, 2010; jaea and Monju)
+PFBR is a pool-type SFR capable of producing 500 MWe in electricity, with 2 primary and 2 secondary loops with 4 SGs per loop. Work of construction of PFBR is progressing in Kalpakkam, India.
+The primary objective of PFBR is to demonstrate technoeconomic viability of fast breeder reactors on an industrial scale. The reactor power is chosen to enable adoption of a standard turbine as used in fossil power stations, to have a standardized design in reactor components resulting in further reduction of capital cost and construction time in future and compatibility with regional grids.
+The PFBR core uses mixed oxide fuel with two enrichment zones (21% and 28%PuO2), with a target burnup of 100 GWd/t, which is aimed to be increased to 150 GWd/t subsequently. Twenty percent cold worked D9 material (15% Cre15% Ni with nano size TiC precipitates) is used for the cladding. SS316LN is the major structural material for the sodium components and modiﬁed 9Cre1Mo is the material for SGs. The sodium temperatures are 547 C and 397 C
+
+for hot and cold pools, respectively. The design plant life is 40 years, with at least 75% load factor to be successively enhanced to 85%. All the nuclear steam supply system components are being manufactured by the Indian industries, based on the technology development, including in-sodium testing of relevant components over the last 2 decades.
+The nuclear island where the PFBR plant is located houses a total of seventeen buildings including safety related structures. Out of the seventeen buildings, eight buildings, namely the reactor containment building, the two SG buildings, the two electrical buildings, the control building, the radwaste building and the fuel building, are connected together as a single structure which is called the Nuclear Island Connected Building (NICB). The NICB is supported on a common raft foundation which covers an area of approximately 102 m Â 93 m and is 6 m thick. The construction of the NICB is completed, with the exception of the top roof of the reactor containment building, which remains open to facilitate the erection of the reactor assembly components.
+To close the fuel cycle of PFBR, a dedicated Fast Reactor Fuel Cycle Facility (FRFCF) is also being established at Kalpakkam. This facility will comprise a fuel fabrication plant, a fuel reprocessing plant, a waste management plant, as well as a plant for processing reprocessed uranium oxide. The colocation of these facilities with sharing of common facilities is a signiﬁcant step toward the reduction of the fuel cycle cost for PFBR.
+The PFBR plant is expected to be commissioned and to start power operation in 2014.
+The schematic sketch of the reactor assembly of PFBR is shown in Fig. 20.
+6.4. JSFR (Aoto et al., 2013)
+Japan Sodium-Cooled Fast Reactor (JSFR) is a concept which has a potential to achieve sustainable energy production, radioactive waste reduction, safety equal to the future light water reactor (LWR) and economic competitiveness against other future energy sources. In 1999, JAEA and utilities launched the “Feasibility Study on Commercialized Fast Reactor Cycle Systems (FS)” with domestic partners of vendors and universities. The FS targets aim at improved safety and economic competitiveness looking at other energy resources in the future including the future LWR. Those targets are consistent with the goals in Generation-IV International Forum (GIF).
+JSFR achieves the development targets of the FaCT (Fast Reactor Cycle Technology Development) project and the Generation-IV reactor goals adopting advanced key technologies concerned with safety, reliability and economy. JSFR is identiﬁed as one of the SFR design tracks within GIF.
+For safety design, JSFR adopts the defence-in-depth (DiD) principle to the same extent as it has been in LWRs. Securing reactor shutdown, two independent reactor shutdown systems with independent/diversiﬁed signals are installed. For the fourth level of DiD, SASS is installed providing passive shutdown capability. The re-criticality free core concept has the great importance to ensure the in-vessel retention scenario against whole core disruptive accidents. The initiating phase energetics due to exceeding the prompt criticality has to be prevented by restricting the sodium void worth and the core height. The possibility of molten fuel compaction has to be eliminated by enhancing the fuel discharge from the core. The effectiveness of fuel assembly with inner duct structure (FAIDUS) has been conﬁrmed by both in-pile and out-of-pile experiments. The JSFR decay heat removal system consists of a combination of one loop of direct reactor auxiliary cooling system (DRACS) and two loops of primary reactor auxiliary cooling system (PRACS) adopting full natural convection system.
+
+260
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 19. General scheme of the plant system with the BN-800 reactor.
+
+Even though the JSFR safety design already took into account measures against severe accident situations and safety features such as passive shutdown system and natural convection decay heat removal systems in the 2010 design version, the Fukushima Dai-ichi nuclear power plant accident increased awareness of importance of design measures against severe accidents and extreme external events. For further improvement on safety designs based on lessons learned from the accident, Safety Design Criteria (SDC) is under discussion in the GIF framework aiming at global standards for SFR reactor safety designs.
+The cut view of JSBR is shown in Fig. 21.
+6.5. ASTRID (Coz et al, 2013)
+ASTRID which stands for “Advanced Sodium Technological Reactor” is a Generation-IV demonstration SFR with electrical output of 600 MWe.
+
+The French Act No. 2006-739 dated June 28, 2006 on the sustainable management program for radioactive materials and waste stipulates the commissioning of a Generation-IV reactor by 2020. In accordance with this Act, the pre-conceptual design of the ASTRID project was launched in 2010 by CEA.
+The objectives of this ﬁrst phase are to consider innovative options to improve the safety level with progress made in SFRspeciﬁc ﬁelds. These innovations include a core with an overall negative sodium void effect, speciﬁc features to prevent and mitigate severe accidents, power conversion system decreasing drastically the sodium-water reaction risk, improvements in In-Service Inspection and Repair. Demonstration of the feasibility of minor actinides transmutation is also pursued in the ASTRID design.
+CEA has concluded partnerships with industrial partners; EDF, AREVA NP, ALSTOM, BOUYGUES, COMEX NUCLEAIRE, TOSHIBA, JACOBS, ROLLS-ROYCE and ASTRIUM.
+As an integrated technology demonstrator, ASTRID has the main objective of demonstrating advances on an industrial scale by
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+261
+
+Fig. 20. Schematic sketch of PFBR reactor assembly.
+
+qualifying innovative options in the ﬁelds of safety, reliability and economy.
+The overall survey of ASTRID is shown in Fig. 22.
+6.6. PGSFR (Seong et al, 2013; Kim et. al, 2013; iaea and yoo, 2013)
+PGSFR, Prototype Generation-IV SFR, is under development at Korea Atomic Energy Research Institute. The current plan includes the submittal of the PGSFR safety analysis report for the application of design approval by 2017, its design approval and construction by 2020 and 2028, respectively. According to the plan, a conceptual design of the prototype SFR is being developed from 2012. The SFR development Agency (SFRA) has been organized on May 16, 2012 to perform the project efﬁciently.
+The objectives of the PGSFR are to test the performance of TRU bearing metal fuels, which will be used later for a commercial SFR, and to demonstrate the TRU transmutation capability of a burner reactor. It is expected to demonstrate the transmutation of TRUs recovered from the PWR spent fuels, and hence the beneﬁts of the integral recycling of actinides in a closed fuel cycle in nuclear waste management.
+In the current PGSFR design study, the plant is capable of producing 150 MWe in electricity with the use of UeZr and U-TRU-Zr metal fuels for the early and later stages of reactor operation, respectively. The core outlet temperature is 545 C to achieve the high thermal efﬁciency. The Intermediate Heat Transport System (IHTS) has two loops, and there are two Intermediate Heat eXchangers (IHXs) connected to one SG and one IHTS pump in each loop. The decay heat removal system is composed of two passive decay heat removal systems and two active decay heat removal systems. The mechanical structure design is carried out in the
+
+manner to obtain a simple reactor enclosure system, while applying advanced design technologies and materials. Component based capital cost evaluation of PGSFR is undergoing and will be completed by 2014.
+The cross-section of the ﬂuid system of PGSFR is shown in Fig. 23.
+6.7. BN-1200 (Vasilyev et. al, 2013a; Vasilyev et. al, 2013b)
+BN-1200 power unit with the electric power of 1,200 MWe is being developed under the Federal Target Program “New Generation Nuclear Power Technologies for the Period of 2010e2015 and for the long-term up to 2020” which the Russian Federation Government has approved, and under the long-term action program of “Rosenergoatom” Concern to develop a competitive fast neutron reactor with enhances safety.
+The main goals of BN-1200 design are:
+ to develop a reliable new generation reactor plant for the commercial power unit with fast reactor to implement the ﬁrstpriority objectives in changing over to closed nuclear fuel cycle,
+ to improve technical and economic indices of BN reactor power unit to the level of those of Russian VVER of equal power, and
+ to enhance safety up to the level of the requirements for the Generation-IV plant.
+The design has made the maximum possible use of well-tried scientiﬁcally proven technical decisions, and use of new engineering decisions to improve power unit safety and efﬁciency as well as fuel effectiveness.
+
+262
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+from the ﬁrst loading of the BN-1200 reactor. MOX fuel is developed as a backup option in case of any difﬁculty or delay in nitride fuel validation.
+The experience gained in operation of BN-600 SGs veriﬁed that the sectional-modular SG concept is efﬁcient in terms of ensuring reliable operation for the reactor plan. On the other hand, it showed a trend in developing a sufﬁciently reliable design of a large-module SG, which became a basis in the development of the BN-1200 reactor plant. Thus, in the BN-1200 reactor, a straighttube SG design is used with two modules per loop, either of which joins the evaporator and superheater portions of the tubing system.
+Currently the detailed design of the reactor and turbine plants is being developed. The completion of the ﬁnal reactor plant design with validation of engineering solutions and with results of current R&D work is planned for 2014. It is planned to fully complete the R&D work in 2016 except for the work on ensuring high fuel burnup.
+The reactor block of BN-1200 is shown in Fig. 24.
+
+Fig. 21. JSFR cut view.
+The BN-1200 reactor plant parameters, including the thermal power of 2,800 MWt and reactor outlet temperature of 550 C, have been made higher than those of the previous BN reactor plant designs, i.e. BN-350, BN-600 and BN-800, to enhance the thermal efﬁciency.
+The reactor cores with two types of fuel, MOX and nitride, are under development for the BN-1200 reactor. The objective of nitride fuel implementation is to completely satisfy the requirements for inherent safety of the Russian project “Proryv”. Measures are taken to accelerate the experimental data acquisition, which shall ensure the possibility to use the nitride fuel starting
+
+6.8. CFR-600 (Iaea and yang, 2013)
+As the ﬁrst step of SFRs development in China, China Experimental Fast Reactor (CEFR), a 20 MWe pool type fast reactor with ﬁrst loading of UO2 fuel followed by the second stage of loading of MOX fuel, achieved the ﬁrst physical criticality on July 21, 2010 and was connected to the grid on July 21, 2011.
+Following CEFR, the demonstration fast reactor e CFR600 is the next step of China fast reactor. The objective of CFR600 is to demonstrate industrial technology and the closed fuel cycle. And the design of CFR600 also pursues high economic performance, high breeding ratio, longer lifetime, compact reactor building, high burnup of fuel and thermal efﬁciency.
+The conceptual design of CFR600 has started in 2013 by China Institute of Atomic Energy (CIAE). Research about some key parameters related to breeding ratio, including fuel pin diameter, axial blanket design, core layout etc., will be ﬁnished at the end of this year.
+CFR600 is a pool-type SFR with the capability of producing about 600 MWe in electricity and 1500 MWt in thermal. The core of CFR600 will be loaded with MOX fuel which consists of 3 fuel regions. The passive emergency shutdown system will be equipped for CFR600. The goal of core design is breeding ratio achieved 1.2 and burn up to 100 GWd/t. The sodium temperatures of inlet and outlet of reactor core are about 380 C and 550 C. For the reactor vessel, the main vessel and guard vessel idea will still be used like CEFR. Furthermore, containment will be set up for CFR600. Heat
+
+Fig. 22. ASTRID overall survey.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+263
+
+Fig. 23. PGSFR cross-section of the ﬂuid system.
+
+transport system of CFR600 is a typical sodiumesodium-water three circuits design, with two primary and two secondary loops. The goal of design thermal efﬁciency is about 40% at least and aimed to be increased to 42%. The instrumentation and control system will be digital systems and will be optimized based on CEFR experience. And the design plant life is 60 years with at least 80% load factor.
+CFR600 will be designed according to the safety requirements of Generation-IV system. For enhancement of the inherent safety, sodium void effect is designed to an adequate value, and a passive shutdown system with hydraulic suspend rod will be equipped for CFR600. For the residual heat removal after the accidents, a passive decay heat removal system (DHRS) will be designed and equipped. To provide defense in depth against core melting in design extension conditions, CFR600 will also be equipped with a core catcher, which will contain the melting fuel and provide long-term cooling with DHRS.
+The plan of the ﬁrst concrete pouring of CFR600 is scheduled in 2017, and the ﬁrst fuel loading will be launched at about 2023.
+The CFR600 reactor block cut view is shown in Fig. 25.
+
+7. Open technical issues and future R&D priorities
+As the baseline considered in the current GIF SFR system research plan, there are three SFR system options: loop, pool and modular conﬁgurations. Following CEFR in China which was connected to the grid in 2011, several SFRs are under construction or planned to be started in operation, e.g. PFBR in India, BN-800 in Russia and Monju in Japan. Furthermore, France, Japan and Russia have developed advanced national SFR demonstrators for nearterm deployment, while China, South Korea and India have proceeded on their respective national projects.
+In view of these situations, R&D efforts mentioned below will be concentrated on as the priorities in the coming years.
+SIA project: Expecting that all SFR signatories will sign up for the SIA Project Arrangement in 2013, implementation of innovative options, economic evaluations and operation optimisation will be promoted. Application of economic methodology to various project options may be a trial study.
+SO project: Improving core inherent safety and I&C (Instrumentation and Control), prevention and mitigation of sodium ﬁres
+
+264
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+Fig. 24. BN-1200 reactor block.
+
+as well as severe accident, ultimate heat sink, and ISI&R will be the priorities to challenge. Along to these issues, demonstration of enhancement of SFR safety assurance and studies of innovative design and safety systems in particular for severe accident will be promoted.
+The safety area should also cope with consolidation of SDC which was approved in GIF Policy Group in May, 2013 as a key issue in the framework of GIF SFR, through applying SDC to the three baseline concepts above mentioned.
+AF project: The target issues include preliminary evaluation of advanced fuels, preliminary selection of advanced fuel(s) for SFR, evaluation of MA-bearing fuels, and evaluation of high-burn-up fuel performance. Demonstration and application of the selected advanced fuel will follow the accomplishment of these issues.
+CDBOP project: ISI&R methods, advanced energy conversion systems improving plant economics and eliminating sodium-water reaction, and advanced high reliability SGs and related instrumentation will be key items to be developed. In the development process, performance tests for detailed speciﬁcation and demonstration of system performance will be carried out.
+GACID project: This project will prepare for the limited MAbearing fuel irradiation test and the licensing of the pin-scale curium-bearing fuel irradiation test, and plan a program of the bundle-scale MA-bearing fuel irradiation demonstration.
+In addition to the advances targeted in the above projects, signiﬁcant advances in the operability and economic performance of SFR can be achieved by reduction of duration of fuel loading outages, increase of fuel burn-up and cycle length, improvement of instrumentation for sodium leak detection and localization as well as ISI&R capabilities, extension of SFR plant lifetime through development of materials with enhanced resistance to ageing degradation and improved inspection and diagnostic capabilities. These advances will be key points to be studied for the GenerationIV SFR development.
+Codes and standards, such as RCC-MRx code in Europe or ASME's new Section III, Division 5, which provides design and construction rules for mechanical components such as vessel, piping, and support structures (core excluded) are key for reactor
+
+Fig. 25. CFR600 reactor block cut view.
+
+K. Aoto et al. / Progress in Nuclear Energy 77 (2014) 247e265
+
+265
+
+design and regulatory review and may require revisions to allow the use of advanced materials. In particular, some R&D to extend current codes and data (e.g., for highly irradiated materials) will be required in support of SFR design and licensing.
+Additional R&D on safety issues highlighted by the Fukushima accident is foreseen in the work plan for the coming years. A primary focus is anticipated on the following issues:
+ Robust and highly reliable systems for assuring adequate cooling of safety relevant components and structures,
+ Geometric stability of the SFR core in case of a strong earthquake and assurance of reliable performance of the control rods,
+ Seismic-resistant design of the spent fuel pools and fuelhandling devices,
+ Integrity of the primary circuit and its cooling,  Design features aimed at excluding the risk of ﬂooding of the
+reactor building, and  Effective options for dealing with severe accidents.
+References
+Aoto, K., et al., 2013. Enhancement of JSFR safety design and criteria for gen. IV reactor. In: Proceedings of an International Conference on Fast Reactors and Related Fuel Cycles: Safe Technologies and Sustainable Scenarios (FR13). France, Paris. IAEA-CN-199-INV-041.
+Cacuci, D.G. (Ed.), 2010. Handbook of Nuclear Engineering, vol. 4. Springer. Coz, P.L., et al., 2013. The ASTRID project : status and prospects. In: Proceedings of
+2013 International Congress on Advances in Nuclear Power Plants (ICAPP 2013), Paper FA136, Jeju Island, Korea. Hahn, D., et al., 2012. Current status of collaboration for GIF sodium-cooled fast reactor system. In: GIF Symposium Proceedings, San Diego, California, USA, 2012 Annual Peport. Iaea, yang http://www.iaea.org/NuclearPower/Downloadable/Meetings/2013/201309-11-09-13-TM-NPTD/7.yang.pdf.
+
+iaea, yoo http://www.iaea.org/NuclearPower/Downloadable/Meetings/2013/201309-11-09-13-TM-NPTD/10.yoo.pdf.
+International Atomic Energy Agency, 2006. Fast Reactor Database 2006 Update. IAEA-TECDOC-1531.
+International Atomic Energy Agency, 2007. Non-electric applications of nuclear power: seawater desalination, hydrogen production and other industrial applications, proceedings of an international conference. In: Proceedings of an International Conference, Oarai, Japan. IAEA-CN-1531.
+International Atomic Energy Agency, 2012. Status of Fast Reactor Research and Technology Development. IAEA-TECDOC-1691.
+jaea, Monju http://www.jaea.go.jp/04/turuga/0425_international_Workshop/ PRVRao-Monju_250413_r.pdf.
+Jaea go http://www.jaea.go.jp/04/monju/category04/cat04.html. Jolisfukyu http://jolisfukyu.tokai-sc.jaea.go.jp/fukyu/mirai-en/2007/index_set.html. Kim, Y.I., et al., 2013. Status of SFR development in Korea. In: Proceedings of an
+International Conference on Fast Reactors and Related Fuel Cycles: Safe Technologies and Sustainable Scenarios (FR13). IAEA-CN-199-INV-037, Paris, France. Kondo, S., et al., 2013. Recent progress and Status of Monju. In: Proceedings of an International Conference on Fast Reactors and Related Fuel Cycles: Safe Technologies and Sustainable Scenarios (FR13). IAEA-CN-199-030, Paris, France. Seong, S.H., et al., 2013. Preliminary conceptual study for safety parameter display system of PGSFR. In: Transactions of the Korean Nuclear Society Autumn Meeting, Gyeongju, Korea, October 24e25. Tsuboi, Y., et al., 2012. Design of the 4S reactor. Nucl. Technol. 178, 201e217. United Kingdom Nuclear Decommissioning Authority, 2014. Progress on Approaches to the Management of Separated Plutonium : Position Paper. SMS/TS/ B1-PLUT/002/A. United States Nuclear Regulatory Commission, 1983. Safety Evaluation Report Related to the Construction of the Clinch River Breeder Reactor Plant. NUREG0968. United States Nuclear Regulatory Commission, 1994. Preliminary Safety Evaluation Report for the Power Reactor Innovative Small Module (PRISM) Liquid-metal Reactor. NUREG-1368. Vasilyev, B.A., et al., 2013. Development of fast sodium reactor technology in Russia. In: Proceedings of an International Conference on Fast Reactors and Related Fuel Cycles: Safe Technologies and Sustainable Scenarios (FR13). IAEA-CN-199INV-026, Paris, France. Vasilyev, B.A., et al., 2013. BN-1200 reactor power unit design development. In: Proceedings of an International Conference on Fast Reactors and Related Fuel Cycles: Safe Technologies and Sustainable Scenarios (FR13). IAEA-CN-199e375, Paris, France.
+
