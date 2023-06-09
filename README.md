@@ -48,7 +48,7 @@ Note: When you run this for the first time, it will download take time as it has
 In order to ask a question, run a command like:
 
 ```shell
-python run_localGPT.py
+python launch_nuke.py
 ```
 
 And wait for the script to require your input. 
@@ -64,8 +64,7 @@ Note: When you run this for the first time, it will need internet connection to 
 Type `exit` to finish the script.
 
 # Run it on CPU
-By default, localGPT will use your GPU to run both the `ingest.py` and `run_localGPT.py` scripts. But if you do not have a GPU and want to run this on CPU, now you can do that (Warning: Its going to be slow!). You will need to use `--device_type cpu`flag with both scripts. 
-
+By default, AcademiaGPT will use CPU to run both the `ingest.py` and `run_localGPT.py` scripts.
 For Ingestion run the following: 
 ```shell
 python ingest.py --device_type cpu
@@ -73,14 +72,14 @@ python ingest.py --device_type cpu
 In order to ask a question, run a command like:
 
 ```shell
-python run_localGPT.py --device_type cpu
+python launch_nuke.py --device_type cpu
 ```
 
 # How does it work?
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
 
 - `ingest.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. It then stores the result in a local vector database using `Chroma` vector store. 
-- `run_localGPT.py` uses a local LLM (Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
+- `launch_nuke.py` uses a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
 - You can replace this local LLM with any other LLM from the HuggingFace. Make sure whatever LLM you select is in the HF format.
 
 # System Requirements
