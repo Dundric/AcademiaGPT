@@ -56,6 +56,9 @@ Use help for a full list of supported devices.
 python ingest.py --help
 ```
 
+It will prompt you for the type of documents you are uploading put a one word topic that describes them
+Examples: History, Science, Math, etc
+
 It will create an index containing the local vectorstore. Will take time, depending on the size of your documents.
 You can ingest as many documents as you want, and all will be accumulated in the local embeddings database. 
 If you want to start from an empty database, delete the `index`.
