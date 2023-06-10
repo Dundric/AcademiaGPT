@@ -81,7 +81,8 @@ def main(device_type):
     if not topic:
         topic = "Science"
 
-
+   
+   print("\nThis may take a while you will see the model is ready when embedding is finished")
     # Create embeddings
     embeddings = HuggingFaceInstructEmbeddings(
         model_name="hkunlp/instructor-large",
@@ -96,7 +97,7 @@ def main(device_type):
     )
     db.persist()
     db = None
-    print("\nThe nuke is ready to launch run the command 'python launch_nuke.py'")
+    print("\nThe model is ready to be used run the command 'python runmodel.py'")
 
 
 if __name__ == "__main__":
