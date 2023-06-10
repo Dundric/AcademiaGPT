@@ -82,7 +82,7 @@ def main(device_type):
         topic = "Science"
 
    
-   print("\nThis may take a while you will see the model is ready when embedding is finished")
+    print("\nThis may take a while you will see the model is ready when embedding is finished")
     # Create embeddings
     embeddings = HuggingFaceInstructEmbeddings(
         model_name="hkunlp/instructor-large",
