@@ -10,7 +10,7 @@ git clone https://github.com/Dundric/AcademiaGPT.git
 Second Create a new Conda Environment to run all the packages in:
 [click here to learn out how to do this if you dont know](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda)
 
-Next in order to set up the environment navigate to the AcademiaGPT folder and install all requirements:
+Next in order to set up the environment, navigate to the AcademiaGPT folder and install all requirements:
 
 ```shell
 pip install -r requirements.txt
