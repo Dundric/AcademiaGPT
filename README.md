@@ -57,6 +57,7 @@ python ingest.py --help
 ```
 
 It will prompt you for the type of documents you are uploading put a one word topic that describes them
+
 Examples: History, Science, Math, etc
 
 It will create an index containing the local vectorstore. Will take time, depending on the size of your documents.
@@ -84,25 +85,24 @@ Hit enter. Wait while the LLM model consumes the prompt and prepares the answer.
 
 Type `exit` to finish the script.
 
-# Run it on CPU
+# Run it on CUDA (NOT Tested Thoroughly Yet)
 By default, AcademiaGPT will use CPU to run both the `ingest.py` and `.py` scripts.
 For Ingestion run the following: 
 ```shell
-python ingest.py --device_type cpu
+python ingest.py --device_type cuda
 ```
 In order to ask a question, run a command like:
 
 ```shell
-python runmodel.py --device_type cpu
+python runmodel.py --device_type cuda
 ```
 
 # How does it work?
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
 
-- `ingest.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. It then stores the result in a local vector database using `Chroma` vector store. 
+- `ingest.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. Intructor Embeddings allows for topic specific embeddings so once you put a topic in it then stores the result in a local vector database using `Chroma` vector store. 
 - `runmodel.py` uses a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
-- You can replace this local LLM with any other LLM from the HuggingFace. Make sure whatever LLM you select is in the HF format.
-
+- You can replace this local LLM with any other LLM that supports Llama cpp. Be sure to follow instrucitons in the beginning.
 # System Requirements
 
 ## Python Version
