@@ -1,11 +1,31 @@
 # AcademiaGPT
 
-# Environment Setup
-In order to set your environment up to run the code here, first install all requirements:
+# Install/Environment Setup
+First clone the repository into wherever you want this to run:
+
+```shell
+git clone https://github.com/Dundric/AcademiaGPT.git
+```
+
+Second Create a new Conda Environment to run all the packages in:
+[click here to learn out how to do this if you dont know](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda)
+
+Next in order to set up the environment navigate to the AcademiaGPT folder and install all requirements:
 
 ```shell
 pip install -r requirements.txt
 ```
+
+Next and create a folder named 'models in the Academia GPT folder'
+
+Download the default model (Wizard-Vicuna-7b 5.1bit quantized):
+[download here](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/blob/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin)
+
+Then drag that model into the models folder
+
+That should be all the basic setup you need.
+
+(If you want a different LLAMA CPP SUPPORTING model just drag a different one into the model folder and change the models/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin to the path of the model you want).
 
 ## Test dataset
 This repo uses Academic Nuclear Documents as an example.
@@ -13,7 +33,7 @@ This repo uses Academic Nuclear Documents as an example.
 ## Instructions for ingesting your own dataset
 
 Put any and all of your .txt, .pdf, or .csv files into the SOURCE_DOCUMENTS directory
-in the load_documents() function, replace the docs_path with the absolute path of your source_documents directory. 
+in the load_documents() function.
 
 The current default file types are .txt, .pdf, .csv, and .xlsx, if you want to use any other file type, you will need to convert it to one of the default file types.
 
