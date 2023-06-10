@@ -15,6 +15,6 @@ urllib3==1.26.6
 accelerate
 bitsandbytes
 click
-glob
+glob2
 # Excel File Manipulation
 openpyxl
