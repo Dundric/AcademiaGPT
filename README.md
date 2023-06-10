@@ -70,14 +70,14 @@ python ingest.py --device_type cpu
 In order to ask a question, run a command like:
 
 ```shell
-python launch_nuke.py --device_type cpu
+python runmodel.py --device_type cpu
 ```
 
 # How does it work?
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
 
 - `ingest.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. It then stores the result in a local vector database using `Chroma` vector store. 
-- `launch_nuke.py` uses a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
+- `runmodel.py` uses a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
 - You can replace this local LLM with any other LLM from the HuggingFace. Make sure whatever LLM you select is in the HF format.
 
 # System Requirements
