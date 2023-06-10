@@ -16,7 +16,7 @@ Next in order to set up the environment navigate to the AcademiaGPT folder and i
 pip install -r requirements.txt
 ```
 
-Next and create a folder named 'models in the Academia GPT folder'
+Next create a folder named 'models' in the Academia GPT folder
 
 Download the default model (Wizard-Vicuna-7b 5.1bit quantized):
 [download here](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/blob/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin)
