@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 
 ## Test dataset
-This repo uses a [Constitution of USA ](https://constitutioncenter.org/media/files/constitution.pdf) as an example.
+This repo uses Academic Nuclear Documents as an example.
 
 ## Instructions for ingesting your own dataset
 
@@ -21,13 +21,13 @@ The current default file types are .txt, .pdf, .csv, and .xlsx, if you want to u
 Run the following command to ingest all the data.
 
 ```shell
-python ingest.py  # defaults to cuda
+python ingest.py  # defaults to cpu
 ```
 
 Use the device type argument to specify a given device.
 
 ```sh
-python ingest.py --device_type cpu 
+python ingest.py --device_type cuda
 ```
 
 Use help for a full list of supported devices.
@@ -48,7 +48,7 @@ Note: When you run this for the first time, it will download take time as it has
 In order to ask a question, run a command like:
 
 ```shell
-python launch_nuke.py
+python runmodel.py
 ```
 
 And wait for the script to require your input. 
@@ -59,12 +59,10 @@ And wait for the script to require your input.
 
 Hit enter. Wait while the LLM model consumes the prompt and prepares the answer. Once done, it will print the answer and the 4 sources it used as context from your documents; you can then ask another question without re-running the script, just wait for the prompt again. 
 
-Note: When you run this for the first time, it will need internet connection to download the vicuna-7B model. After that you can turn off your internet connection, and the script inference would still work. No data gets out of your local environment.
-
 Type `exit` to finish the script.
 
 # Run it on CPU
-By default, AcademiaGPT will use CPU to run both the `ingest.py` and `run_localGPT.py` scripts.
+By default, AcademiaGPT will use CPU to run both the `ingest.py` and `.py` scripts.
 For Ingestion run the following: 
 ```shell
 python ingest.py --device_type cpu
@@ -162,5 +160,5 @@ pip install xformers
         
 
 # Disclaimer
-This is a test project to validate the feasibility of a fully local solution for question answering using LLMs and Vector embeddings. It is not production ready, and it is not meant to be used in production. Vicuna-7B is based on the Llama model so that has the original Llama license. 
+This is a test project to validate the feasibility of a fully local solution for question answering using LLMs and Vector embeddings. It is not production ready, and it is not meant to be used in production. Wizard-Vicuna-7B is based on the Llama model so that has the original Llama license. 
 # AcademiaGPT
