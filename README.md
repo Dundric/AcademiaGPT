@@ -25,7 +25,7 @@ Then drag that model into the models folder
 
 That should be all the basic setup you need.
 
-(If you want a different LLAMA CPP SUPPORTING model just drag a different one into the model folder and change the models/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin to the path of the model you want).
+(If you want a different LLAMA CPP SUPPORTING model just drag a different one into the model folder and change the models/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin in the constants.py file to the path of the model you want).
 
 ## Test dataset
 This repo uses Academic Nuclear Documents as an example.
