@@ -40,7 +40,7 @@ def main(device_type):
     print(f"Running on: {device_type}")
 
     embeddings = HuggingFaceInstructEmbeddings(
-        model_name="hkunlp/instructor-large", model_kwargs={"device": device_type}
+        model_name="hkunlp/instructor-base", model_kwargs={"device": device_type}
     )
     # load the vectorstore
     db = Chroma(
@@ -59,7 +59,7 @@ def main(device_type):
     )
     # Interactive questions and answers
     while True:
-        print("\nto cancel launch sequence type exit")
+        print("\nto close query type exit")
         query = input("\nEnter a query: ")
         if query == "exit":
             break
