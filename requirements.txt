@@ -6,15 +6,18 @@ pdfminer.six==20221105
 InstructorEmbedding
 sentence-transformers
 faiss-cpu
-huggingface_hub
 transformers
 protobuf==3.20.0
-multiprocess
 # Utilities
+sys
+tkinter
 urllib3==1.26.6
 accelerate
 bitsandbytes
 click
 glob2
+pdfrw
 # Excel File Manipulation
 openpyxl
+#App Settings
+chainlit
