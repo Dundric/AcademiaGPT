@@ -15,12 +15,10 @@ from langchain.document_loaders import (
 ROOT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 
 # Define the folder for storing database
-SOURCE_DIRECTORY = f"{ROOT_DIRECTORY}/SOURCE_DOCUMENTS"
 
 PERSIST_DIRECTORY = f"{ROOT_DIRECTORY}/DB"
 
-MODEL_PATH= f"{ROOT_DIRECTORY}/models/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin"
-
+MODEL_PATH = f"{ROOT_DIRECTORY}/models/llama-2-7b-chat.ggmlv3.q5_K_S.bin"
 # Define the Chroma settings
 CHROMA_SETTINGS = Settings(
         chroma_db_impl='duckdb+parquet',
