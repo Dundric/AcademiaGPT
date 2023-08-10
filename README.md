@@ -32,33 +32,9 @@ This repo uses Academic Nuclear Documents as an example.
 
 ## Instructions for ingesting your own dataset
 
-Put any and all of your .txt, .pdf, or .csv files into the SOURCE_DOCUMENTS directory
-in the load_documents() function.
+When you run the app
 
 The current default file types are .txt, .pdf, .csv, and .xlsx, if you want to use any other file type, you will need to convert it to one of the default file types.
-
-
-Run the following command to ingest all the data.
-
-```shell
-python ingest.py  # defaults to cpu
-```
-
-Use the device type argument to specify a given device.
-
-```sh
-python ingest.py --device_type cuda
-```
-
-Use help for a full list of supported devices.
-
-```sh
-python ingest.py --help
-```
-
-It will prompt you for the type of documents you are uploading put a one word topic that describes them
-
-Examples: History, Science, Math, etc
 
 It will create an index containing the local vectorstore. Will take time, depending on the size of your documents.
 You can ingest as many documents as you want, and all will be accumulated in the local embeddings database. 
@@ -72,22 +48,10 @@ Note: When you run this for the first time, it will download take time as it has
 In order to ask a question, run a command like:
 
 ```shell
-run chainlitrun.py -w
+chainlit run chainlitrun.py -w
 ```
 
 And wait for the webapp to load
-
-# Run it on CUDA (NOT Tested Thoroughly Yet)
-By default, AcademiaGPT will use CPU to run both the `ingest.py` and `.py` scripts.
-For Ingestion run the following: 
-```shell
-python ingest.py --device_type cuda
-```
-In order to ask a question, run a command like:
-
-```shell
-python runmodel.py --device_type cuda
-```
 
 # How does it work?
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
