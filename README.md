@@ -72,18 +72,10 @@ Note: When you run this for the first time, it will download take time as it has
 In order to ask a question, run a command like:
 
 ```shell
-python runmodel.py
+run chainlitrun.py -w
 ```
 
-And wait for the script to require your input. 
-
-```shell
-> Enter a query:
-```
-
-Hit enter. Wait while the LLM model consumes the prompt and prepares the answer. Once done, it will print the answer and the 4 sources it used as context from your documents; you can then ask another question without re-running the script, just wait for the prompt again. 
-
-Type `exit` to finish the script.
+And wait for the webapp to load
 
 # Run it on CUDA (NOT Tested Thoroughly Yet)
 By default, AcademiaGPT will use CPU to run both the `ingest.py` and `.py` scripts.
