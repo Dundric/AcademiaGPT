@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Next create a folder named 'models' in the Academia GPT folder
 
 Download the default model (Wizard-Vicuna-7b 5.1bit quantized):
-[download here](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/blob/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q5_1.bin)
+[download here]([https://huggingface.co/TheBloke/Llama-2-7B-GGML/blob/main/llama-2-7b.ggmlv3.q4_K_S.bin])
 
 Then drag that model into the models folder
 
