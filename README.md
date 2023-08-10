@@ -57,7 +57,7 @@ And wait for the webapp to load
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
 
 - `ingest.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. Intructor Embeddings allows for topic specific embeddings so once you put a topic in it then stores the result in a local vector database using `Chroma` vector store. 
-- `runmodel.py` uses a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
+- `chainlitrun.py` uses the web app development library Chainlit and a local LLM (Wizard-Vicuna-7B in this case) to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs. 
 - You can replace this local LLM with any other LLM that supports Llama cpp. Be sure to follow instrucitons in the beginning.
 # System Requirements
 
